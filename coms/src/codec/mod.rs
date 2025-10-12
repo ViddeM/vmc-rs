@@ -1,3 +1,12 @@
+// A minecraft game profile
+pub mod game_profile;
+
+// Implementation of the minecraft Prefixed Array
+pub mod prefixed_array;
+
+// Implementation of the minecraft Prefixed Optional
+pub mod prefixed_optional;
+
 /// A JsonString.
 pub mod json_string;
 /// Implementation for reading/writing Uuids in the Minecraft codec spec.

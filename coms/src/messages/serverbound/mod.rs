@@ -1,4 +1,4 @@
-/// Server-bound packages during the handshaking state.
+/// Server-bound packages
 pub mod handshaking;
-/// Server-bound packages during the status state.
+pub mod login;
 pub mod status;
