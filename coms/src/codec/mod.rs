@@ -1,3 +1,4 @@
+pub mod prefixed_array;
 pub mod uuid;
 pub mod var_int;
 pub mod var_long;
